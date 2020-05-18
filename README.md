@@ -17,7 +17,7 @@ The following procedures shall be followed after building a classifier which wil
 
 We will be using datasets from Kaggle (https://www.kaggle.com/c/google-ai-open-images-object-detection-track). 
 The Open Images Challenge is based on Open Images dataset. The training set of the Challenge contains:
-•	12M bounding-box annotations for 500 object classes on 1.7M training images
+•	bounding-box annotations for object classes on 99,999 training images
 •	Images of complex scenes with several objects–an average of 7 boxes per image
 •	Highly varied images that contain brand new objects like “fedora” and “snowman”
 •	Class hierarchy that reflects the relationships between classes of Open Images.
